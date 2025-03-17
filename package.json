@@ -1,0 +1,23 @@
+{
+  "name": "maximilian-schwarzmuller-nodejs",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeeptanjore/Maximilian-Schwarzmuller-Nodejs.git"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeeptanjore/Maximilian-Schwarzmuller-Nodejs/issues"
+  },
+  "homepage": "https://github.com/sandeeptanjore/Maximilian-Schwarzmuller-Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
